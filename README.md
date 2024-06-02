@@ -1,5 +1,4 @@
 # Diseño de Base de Datos
-#### Material y actividades resueltas de Diseño de Base De Datos
 
 > [!TIP]
 > [Videos de teoria](https://www.youtube.com/playlist?list=PLgjP77yaDcE-t44Lfz5bGlSzHf63Od5uF)
