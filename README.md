@@ -1,5 +1,7 @@
-# Diseño de Base de Datos
- ![Mi GIF](https://github.com/DerDAVO/DBD/blob/main/media/MySQL-Logo.png)
+<h1 align="center">Diseño de base de datos</h1>
+<div align="center">
+  <img src="https://github.com/DerDAVO/DerDAVO/blob/main/media/sql-icon.png">
+</div>
 <details>
 <summary>Links utiles </summary>
   
